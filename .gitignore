@@ -1,0 +1,10 @@
+
+node_modules/**
+
+germany.mbtiles
+
+log.txt
+
+*.mbtiles
+
+trees_of_germany.geojson
